@@ -1,5 +1,7 @@
 package com.common.zookeeper.sort;
 
+import java.util.Arrays;
+
 import static com.common.zookeeper.sort.QuickSortTest.show;
 
 /**
@@ -72,4 +74,23 @@ public class Test {
     }
 
 
+    public void insertSort(int[] array){
+        for (int i = 1; i < array.length; i++){
+            int temp = 0;
+            temp = array[i];
+            int j = i - 1;
+            for (; j >= 0 && temp < array[j]; j--){
+                array[j + 1] = array[j];
+            }
+            array[j +1] = temp;
+        }
+    }
+
+    @org.junit.Test
+    public void testSort(){
+
+        int[] array = {6, 1, 2, 7, 9, 3, 4, 5, 10, 8};
+        insertSort(array);
+        System.out.println(Arrays.toString(array));
+    }
 }

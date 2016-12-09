@@ -1,6 +1,7 @@
 package com.common.zookeeper;
 
 import java.util.ArrayList;
+import java.util.Iterator;
 
 /**
  * Created by MHorse on 2016/7/6.
@@ -34,5 +35,11 @@ public class ArrayListTest {
         }*/
         System.out.println(arrayList.remove(null));
         System.out.println(arrayList);
+
+        System.out.println("******************");
+        Iterator iterator = arrayList.iterator();
+        while (iterator.hasNext()){
+            System.out.println(iterator.next());
+        }
     }
 }

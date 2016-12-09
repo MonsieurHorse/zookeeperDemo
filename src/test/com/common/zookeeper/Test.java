@@ -4,10 +4,7 @@ import com.sun.source.tree.Tree;
 import org.codehaus.jackson.util.InternCache;
 
 import java.io.UnsupportedEncodingException;
-import java.util.Arrays;
-import java.util.Calendar;
-import java.util.LinkedHashMap;
-import java.util.Map;
+import java.util.*;
 
 /**
  * Created by MHorse on 2016/6/22.
@@ -110,6 +107,74 @@ public class Test {
         System.out.println(c.equals(a+b));//true
         System.out.println(g==(a+b));//false
         System.out.println(g.equals(a+b));//false
-        System.out.println(g.equals(a+h));//true
+        System.out.println(g.equals(a + h));//true
+    }
+
+    @org.junit.Test
+    public void testArray(){
+        int[] array = {1, 2, 3};
+        System.out.println(Arrays.toString(array));
+
+        String str = "abcd";
+        StringBuilder stringBuilder = new StringBuilder(str);
+        stringBuilder.reverse();
+        System.out.println(stringBuilder);
+    }
+
+    @org.junit.Test
+    public void testConstantPool(){
+        String str1 = new String("hello");
+
+        str1+="world";
+        String str2 = "helloworld";
+        String str3 = str1;
+        System.out.println(str1==str2);
+        System.out.println(str1 == str3);
+        System.out.println(str2==str3);
+    }
+
+    @org.junit.Test
+    public void testMap(){
+        HashMap hashMap = new HashMap();
+        LinkedHashMap linkedHashMap = new LinkedHashMap();
+        linkedHashMap.put(1, 1);
+        linkedHashMap.put(2, 2);
+        linkedHashMap.put(3, 3);
+        Iterator iterator = linkedHashMap.entrySet().iterator();
+        while (iterator.hasNext()){
+            System.out.println(iterator.next());
+        }
+//        Collections.synchronizedCollection(hashMap)
+        Collections.synchronizedMap(hashMap);
+    }
+
+    @org.junit.Test
+    public void testQueue(){
+        //add()和remove()方法在失败的时候会抛出异常(不推荐)
+        Queue<String> queue = new LinkedList<String>();
+        //添加元素
+        queue.offer("a");
+        queue.offer("b");
+        queue.offer("c");
+        queue.offer("d");
+        queue.offer("e");
+        for(String q : queue){
+            System.out.println(q);
+        }
+        System.out.println("===");
+        System.out.println("poll="+queue.poll()); //返回第一个元素，并在队列中删除
+        for(String q : queue){
+            System.out.println(q);
+        }
+        System.out.println("===");
+        System.out.println("element="+queue.element()); //返回第一个元素
+        for(String q : queue){
+            System.out.println(q);
+        }
+        System.out.println("===");
+        System.out.println("peek="+queue.peek()); //返回第一个元素
+        for(String q : queue){
+            System.out.println(q);
+        }
     }
 }

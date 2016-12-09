@@ -214,6 +214,16 @@ public class Test {
 //        treeMap2.su
         Map map = new HashMap();
         map.containsKey("");
+        map.put(1, 1);
+        map.put(13, 13);
+        map.put(17, 17);
+        map.put(33, 33);
+//        System.out.println(map.get(1).hashCode());
+//        System.out.println(map.get(17).hashCode());
+        Iterator iterator = map.keySet().iterator();
+        while ( iterator.hasNext()){
+            System.out.println(iterator.next().hashCode());
+        }
     }
 
     @org.junit.Test
