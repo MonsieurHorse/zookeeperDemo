@@ -18,7 +18,7 @@ public class ZKServerTest {
     String root = "/root";
     String path = root + "/child1";
 
-    /*@Test
+    /*@LockTest
     public void testSetad() throws IOException, KeeperException, InterruptedException {
 //        String path = "/root/child0604";
 //        zkServer.zk().exists("/root", true);
@@ -34,18 +34,18 @@ public class ZKServerTest {
         System.out.println(new String(zkServer.zk().getConfig(false, new Stat()), "utf-8"));
     }
 
-    @Test
+    @LockTest
     public void testGet() throws IOException, KeeperException, InterruptedException {
         System.out.println("path: " + new String(zkServer.zk().getData(path, true, new Stat())));
         System.out.println("root: " + new String(zkServer.zk().getData(path, true, new Stat())));
     }
 
-    @Test
+    @LockTest
     public void testSet() throws IOException, KeeperException, InterruptedException {
         zkServer.zk().setData(root, "root node data".getBytes(), -1);
     }
 
-    @Test
+    @LockTest
     public void testGetAndSet() throws IOException, KeeperException, InterruptedException {
         final String rootData = new String(zkServer.zk().getData(root, true, new Stat()));
         final String pathData = new String(zkServer.zk().getData(path, false, new Stat()));

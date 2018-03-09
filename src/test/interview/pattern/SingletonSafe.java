@@ -10,4 +10,8 @@ public class SingletonSafe {
     public static SingletonSafe getSingletonSafe(){
         return singletonSafe;
     }
+
+    public void print() {
+        System.out.println("hello");
+    }
 }
