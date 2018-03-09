@@ -7,373 +7,47 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="47c84429-a870-46b2-bdd4-a87ba40a853a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/model/ActivityUserInfo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/test/ConstantModel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/test/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/transaction/DefaultFooService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/transaction/Foo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/transaction/FooService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/annotation/AnnotationExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/annotation/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/annotation/User.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/com/common/zookeeper/JsonTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/com/common/zookeeper/NoticeInfo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/com/common/zookeeper/algorithm/Move.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/concurrentUtil/BlockingQueueExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/concurrentUtil/ConcurrentHashMapTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/concurrentUtil/Consumer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/concurrentUtil/ExecutorService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/concurrentUtil/Producer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/concurrentUtil/cyclicBarrier/CyclicBarrierExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/concurrentUtil/cyclicBarrier/CyclicBarrierRunnable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/interview/regularExpression/APPVersionRegexTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/jvm/StaticTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/jvm/WarmUp.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/jvm/clinit/ConstClass.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/jvm/clinit/NotInitialization.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/jvm/clinit/StaticTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/jvm/reflect/ReflectCase.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/jvm/threadLocal/Student.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/jvm/threadLocal/TestThreadLocal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/mongoDb/MongoDBTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/pattern/proxy/cglibProxy/App.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/pattern/proxy/cglibProxy/ProxyFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/pattern/proxy/cglibProxy/UserDao.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/pattern/proxy/dynamicProxy/App.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/pattern/proxy/dynamicProxy/ProxyFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/pattern/proxy/staticProxy/App.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/pattern/proxy/staticProxy/IUserDao.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/pattern/proxy/staticProxy/UserDao.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/pattern/proxy/staticProxy/UserDaoProxy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/pattern/template/AbstractPerson.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/pattern/template/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/pattern/template/Student.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/pattern/template/Teacher.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/spring/cglib/Cat.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/spring/cglib/ProxyTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/spring/proxy/Bird.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/spring/proxy/Fly.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/spring/proxy/ProxyTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/stringUtils/AutoboxingAndUnboxingTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/stringUtils/ChinestTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/stringUtils/ConcurrentTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/stringUtils/EnumTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/stringUtils/IDCardValidate.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/stringUtils/IdcardUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/stringUtils/IdentityUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/stringUtils/IdentityUtilsTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/stringUtils/MapTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/stringUtils/Person.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/stringUtils/TimeTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/stringUtils/XXTeaTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/stringUtils/trueFalseTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/synchronize/SyncThread.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/synchronize/SyncThreadTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/thread/callable/CallableAndFuture.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/thread/callable/CallableDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/thread/callable/RunnableDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/thread/callable/ThreadDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/thread/lock/LockInterruptiblyTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/thread/lock/LockTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/thread/lock/ReentrantReadWriteLockTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/thread/test/OneThread.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/thread/test/TestMultiThread.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/threadPool/MyTask.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/threadPool/TestThreadPool.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/threadPool/ThreadPoolExecutorTest.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_2_5_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__cryptix_cryptix_jce_provider_1_0_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_compress_1_4_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_tukaani_xz_1_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/JavaApiSample.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/configuration/Test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/online/ServerClient$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/online/ServerClient.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/server/PersistentWatcher$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/server/PersistentWatcher$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/server/PersistentWatcher.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/server/WatcherWrapper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/server/ZKServer$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/server/ZKServer$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/server/ZKServer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/serverClient/AppClient$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/serverClient/AppClient.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/allocationAndCollection/Test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/cache/Test$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/cache/Test$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/cache/Test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/common/zookeeper/ArrayListTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/common/zookeeper/HeapSort.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/common/zookeeper/LoadingCacheTest$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/common/zookeeper/LoadingCacheTest$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/common/zookeeper/LoadingCacheTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/common/zookeeper/PublishTest$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/common/zookeeper/PublishTest$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/common/zookeeper/PublishTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/common/zookeeper/RubbishRelease.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/common/zookeeper/ServiceTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/common/zookeeper/StudentTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/common/zookeeper/Test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/common/zookeeper/factory/Creator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/common/zookeeper/factory/FirstProduct.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/common/zookeeper/factory/MainTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/common/zookeeper/factory/OneCreator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/common/zookeeper/factory/OneProduct.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/common/zookeeper/factory/Product.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/common/zookeeper/factory/SecondProduct.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/common/zookeeper/factory/TwoCreator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/common/zookeeper/factory/TwoProduct.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/common/zookeeper/io/NIOTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/common/zookeeper/nio/HelloClient$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/common/zookeeper/nio/HelloClient$HelloClientHandler.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/common/zookeeper/nio/HelloClient.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/common/zookeeper/nio/HelloServer$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/common/zookeeper/nio/HelloServer$HelloServerHandler.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/common/zookeeper/nio/HelloServer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/common/zookeeper/pattern/Singleton.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/common/zookeeper/pattern/SingletonTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/common/zookeeper/pattern/decoratorPattern/AppleDecorator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/common/zookeeper/pattern/decoratorPattern/BananaDecorator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/common/zookeeper/pattern/decoratorPattern/Basket.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/common/zookeeper/pattern/decoratorPattern/DecoratorPattern.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/common/zookeeper/pattern/decoratorPattern/OrangeDecorator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/common/zookeeper/pattern/decoratorPattern/Original.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/common/zookeeper/server/ZKServerTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/common/zookeeper/server/persistentWatcherTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/common/zookeeper/sort/BubbleSortTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/common/zookeeper/sort/MergeSort.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/common/zookeeper/sort/MergeSortTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/common/zookeeper/sort/QuickSort.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/common/zookeeper/sort/QuickSortTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/common/zookeeper/sort/Search.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/common/zookeeper/sort/Sort.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/common/zookeeper/sort/Test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/image/ImageTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/interview/array/string/InterArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/interview/pattern/Singleton.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/interview/pattern/SingletonSafe.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/interview/pattern/Test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/jvm/FieldResolution$Interface0.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/jvm/FieldResolution$Interface1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/jvm/FieldResolution$Interface2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/jvm/FieldResolution$Parent.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/jvm/FieldResolution$Sub.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/jvm/FieldResolution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/jvm/Test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/jvm/clinit/ClassLoaderTest$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/jvm/clinit/ClassLoaderTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/jvm/clinit/DeadLoopClassTest$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/jvm/clinit/DeadLoopClassTest$DeadLoopClass.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/jvm/clinit/DeadLoopClassTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/jvm/initialization/ConstClass.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/jvm/initialization/NotInitialization.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/jvm/initialization/NotInitialization2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/jvm/initialization/NotInitialization3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/jvm/initialization/SubClass.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/jvm/initialization/SuperClass.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/jvm/outOfMemory/DirectMemoryOOM.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/jvm/outOfMemory/JavaVMStackOOM$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/jvm/outOfMemory/JavaVMStackOOM.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/jvm/outOfMemory/JavaVMStackSOF.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/jvm/outOfMemory/RuntimeConstantPoolOOM.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/jvm/slot/DynamicProxyTest$DynamicProxy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/jvm/slot/DynamicProxyTest$Hello.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/jvm/slot/DynamicProxyTest$IHello.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/jvm/slot/DynamicProxyTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/jvm/slot/MethodHandleTest$ClassA.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/jvm/slot/MethodHandleTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/jvm/slot/OverLoad.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/jvm/slot/SlotTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/jvm/slot/StaticDispatch$Human.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/jvm/slot/StaticDispatch$Man.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/jvm/slot/StaticDispatch$Woman.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/jvm/slot/StaticDispatch.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/jvm/slot/StaticResolution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/jvm/thread/AtomicTest$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/jvm/thread/AtomicTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/jvm/thread/GetAndSet.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/jvm/thread/ThreadA.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/jvm/thread/ThreadB.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/jvm/thread/VectorThread$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/jvm/thread/VectorThread$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/jvm/thread/VectorThread.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/jvm/thread/VolatileTest$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/jvm/thread/VolatileTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/producerAndConsumer/Consumer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/producerAndConsumer/Producer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/producerAndConsumer/Storage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/producerAndConsumer/Test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/producerAndConsumerTest/Consumer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/producerAndConsumerTest/Godown.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/producerAndConsumerTest/Producer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/producerAndConsumerTest/Test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/stringUtils/MyMD5Util.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/stringUtils/PackageTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/stringUtils/StringInternTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/stringUtils/Test$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/stringUtils/Test$OOMObject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/stringUtils/Test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/stringUtils/TestArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/thread/MyThread.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/thread/RunThread.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/thread/ThreadDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/tree/binaryTree/BinaryTree$TreeNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/tree/binaryTree/BinaryTree.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/META-INF/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/classes/com/common/zookeeper/Client$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/classes/com/common/zookeeper/Client.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/classes/com/common/zookeeper/JavaApiSample.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/classes/com/common/zookeeper/Sample$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/classes/com/common/zookeeper/Sample.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/classes/com/common/zookeeper/Service$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/classes/com/common/zookeeper/Service$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/classes/com/common/zookeeper/Service.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/classes/com/common/zookeeper/ZooKeeperOperator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/classes/com/common/zookeeper/config/Config.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/classes/com/common/zookeeper/config/Startup.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/classes/com/common/zookeeper/config/ZooKeeperConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/classes/com/common/zookeeper/config/spring/ZooKeeperPropertyPlaceholderConfigurer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/classes/com/common/zookeeper/configuration/ConfigCenter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/classes/com/common/zookeeper/configuration/Test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/classes/com/common/zookeeper/configuration/ZooKeeperWatcher.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/classes/com/common/zookeeper/lock/LeaderElection.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/classes/com/common/zookeeper/lock/Locks.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/classes/com/common/zookeeper/lock/TestMainClient.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/classes/com/common/zookeeper/online/ServerClient$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/classes/com/common/zookeeper/online/ServerClient.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/classes/com/common/zookeeper/ontimeServer/ManagerServer$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/classes/com/common/zookeeper/ontimeServer/ManagerServer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/classes/com/common/zookeeper/ontimeServer/ServerConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/classes/com/common/zookeeper/ontimeServer/ServerData.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/classes/com/common/zookeeper/ontimeServer/SubscribeZkClient.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/classes/com/common/zookeeper/ontimeServer/WorkServer$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/classes/com/common/zookeeper/ontimeServer/WorkServer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/classes/com/common/zookeeper/server/PersistentWatcher$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/classes/com/common/zookeeper/server/PersistentWatcher$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/classes/com/common/zookeeper/server/PersistentWatcher.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/classes/com/common/zookeeper/server/WatcherWrapper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/classes/com/common/zookeeper/server/ZKServer$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/classes/com/common/zookeeper/server/ZKServer$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/classes/com/common/zookeeper/server/ZKServer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/classes/com/common/zookeeper/serverClient/AppClient$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/classes/com/common/zookeeper/serverClient/AppClient.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/classes/com/common/zookeeper/serverClient/AppServer$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/classes/com/common/zookeeper/serverClient/AppServer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/classes/config/application.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/classes/config/applicationContext.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/classes/log4j.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/lib/activation-1.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/lib/aopalliance-1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/lib/asm-3.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/lib/commons-cli-1.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/lib/commons-codec-1.4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/lib/commons-compress-1.4.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/lib/commons-io-2.4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/lib/commons-lang-2.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/lib/commons-logging-1.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/lib/curator-client-2.4.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/lib/curator-framework-2.4.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/lib/curator-recipes-2.4.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/lib/fastjson-1.2.7.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/lib/guava-14.0.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/lib/guice-3.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/lib/guice-servlet-3.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/lib/hadoop-annotations-2.6.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/lib/hadoop-yarn-api-2.6.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/lib/hadoop-yarn-common-2.6.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/lib/hadoop-yarn-server-common-2.6.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/lib/jackson-core-asl-1.9.13.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/lib/jackson-jaxrs-1.9.13.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/lib/jackson-mapper-asl-1.9.13.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/lib/jackson-xc-1.9.13.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/lib/javacc-5.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/lib/javaee-api-7.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/lib/javax.inject-1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/lib/javax.mail-1.5.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/lib/jaxb-api-2.2.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/lib/jaxb-impl-2.2.3-1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/lib/jersey-client-1.9.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/lib/jersey-core-1.9.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/lib/jersey-guice-1.9.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/lib/jersey-json-1.9.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/lib/jersey-server-1.9.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/lib/jettison-1.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/lib/jetty-util-6.1.26.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/lib/leveldbjni-all-1.8.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/lib/log4j-1.2.16.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/lib/netty-3.7.0.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/lib/protobuf-java-2.5.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/lib/servlet-api-2.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/lib/slf4j-api-1.7.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/lib/slf4j-log4j12-1.7.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/lib/spring-aop-4.2.3.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/lib/spring-beans-4.2.3.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/lib/spring-context-4.2.3.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/lib/spring-core-4.2.3.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/lib/spring-expression-4.2.3.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/lib/stax-api-1.0-2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/lib/xz-1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/lib/zkclient-0.8.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/lib/zookeeper-3.5.1-alpha.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/index.jsp" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/Client$1.class" afterPath="$PROJECT_DIR$/target/classes/com/common/zookeeper/Client$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/Client.class" afterPath="$PROJECT_DIR$/target/classes/com/common/zookeeper/Client.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/Sample$1.class" afterPath="$PROJECT_DIR$/target/classes/com/common/zookeeper/Sample$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/Sample.class" afterPath="$PROJECT_DIR$/target/classes/com/common/zookeeper/Sample.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/Service$1.class" afterPath="$PROJECT_DIR$/target/classes/com/common/zookeeper/Service$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/Service$2.class" afterPath="$PROJECT_DIR$/target/classes/com/common/zookeeper/Service$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/Service.class" afterPath="$PROJECT_DIR$/target/classes/com/common/zookeeper/Service.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/Student.class" afterPath="$PROJECT_DIR$/target/classes/com/common/zookeeper/Student.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/ZooKeeperOperator.class" afterPath="$PROJECT_DIR$/target/classes/com/common/zookeeper/ZooKeeperOperator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/config/Config.class" afterPath="$PROJECT_DIR$/target/classes/com/common/zookeeper/config/Config.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/config/Startup.class" afterPath="$PROJECT_DIR$/target/classes/com/common/zookeeper/config/Startup.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/config/ZooKeeperConfig.class" afterPath="$PROJECT_DIR$/target/classes/com/common/zookeeper/config/ZooKeeperConfig.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/config/spring/ZooKeeperPropertyPlaceholderConfigurer.class" afterPath="$PROJECT_DIR$/target/classes/com/common/zookeeper/config/spring/ZooKeeperPropertyPlaceholderConfigurer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/configuration/ConfigCenter.class" afterPath="$PROJECT_DIR$/target/classes/com/common/zookeeper/configuration/ConfigCenter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/configuration/ZooKeeperWatcher.class" afterPath="$PROJECT_DIR$/target/classes/com/common/zookeeper/configuration/ZooKeeperWatcher.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/lock/LeaderElection.class" afterPath="$PROJECT_DIR$/target/classes/com/common/zookeeper/lock/LeaderElection.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/lock/Locks.class" afterPath="$PROJECT_DIR$/target/classes/com/common/zookeeper/lock/Locks.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/lock/TestMainClient.class" afterPath="$PROJECT_DIR$/target/classes/com/common/zookeeper/lock/TestMainClient.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/ontimeServer/ManagerServer$2.class" afterPath="$PROJECT_DIR$/target/classes/com/common/zookeeper/ontimeServer/ManagerServer$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/ontimeServer/ManagerServer.class" afterPath="$PROJECT_DIR$/target/classes/com/common/zookeeper/ontimeServer/ManagerServer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/ontimeServer/ServerConfig.class" afterPath="$PROJECT_DIR$/target/classes/com/common/zookeeper/ontimeServer/ServerConfig.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/ontimeServer/ServerData.class" afterPath="$PROJECT_DIR$/target/classes/com/common/zookeeper/ontimeServer/ServerData.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/ontimeServer/SubscribeZkClient.class" afterPath="$PROJECT_DIR$/target/classes/com/common/zookeeper/ontimeServer/SubscribeZkClient.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/ontimeServer/WorkServer$1.class" afterPath="$PROJECT_DIR$/target/classes/com/common/zookeeper/ontimeServer/WorkServer$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/ontimeServer/WorkServer.class" afterPath="$PROJECT_DIR$/target/classes/com/common/zookeeper/ontimeServer/WorkServer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/serverClient/AppServer$1.class" afterPath="$PROJECT_DIR$/target/classes/com/common/zookeeper/serverClient/AppServer$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/serverClient/AppServer.class" afterPath="$PROJECT_DIR$/target/classes/com/common/zookeeper/serverClient/AppServer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/model/UserModel.class" afterPath="$PROJECT_DIR$/target/classes/model/UserModel.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/runnable/MyThread.class" afterPath="$PROJECT_DIR$/target/classes/runnable/MyThread.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/runnable/RunnableDemo.class" afterPath="$PROJECT_DIR$/target/classes/runnable/RunnableDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/syn/Consumer.class" afterPath="$PROJECT_DIR$/target/classes/syn/Consumer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/syn/Info.class" afterPath="$PROJECT_DIR$/target/classes/syn/Info.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/syn/Producer.class" afterPath="$PROJECT_DIR$/target/classes/syn/Producer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/syn/ThreadCaseDemo.class" afterPath="$PROJECT_DIR$/target/classes/syn/ThreadCaseDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/zookeeperDemo_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/zookeeperDemo_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/AbstractZooKeeper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/Client$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/Client.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/Sample$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/Sample.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/Service$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/Service$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/Service.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/Student.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/ZooKeeperOperator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/config/Config.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/config/Startup.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/config/ZooKeeperConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/config/ZooKeeperFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/config/spring/ZooKeeperPropertyPlaceholderConfigurer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/configuration/ConfigCenter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/configuration/ZooKeeperWatcher.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/lock/LeaderElection.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/lock/Locks.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/lock/TestMainClient.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/ontimeServer/ManagerServer$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/ontimeServer/ManagerServer$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/ontimeServer/ManagerServer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/ontimeServer/ServerConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/ontimeServer/ServerData.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/ontimeServer/SubscribeZkClient.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/ontimeServer/WorkServer$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/ontimeServer/WorkServer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/serverClient/AppServer$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/common/zookeeper/serverClient/AppServer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/config/application.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/config/applicationContext.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/log4j.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/model/UserModel.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/runnable/MyThread.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/runnable/RunnableDemo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/syn/Consumer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/syn/Info.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/syn/Producer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/syn/ThreadCaseDemo.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/com/common/zookeeper/ArrayListTest.java" afterPath="$PROJECT_DIR$/src/test/com/common/zookeeper/ArrayListTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/com/common/zookeeper/Test.java" afterPath="$PROJECT_DIR$/src/test/com/common/zookeeper/Test.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/com/common/zookeeper/server/ZKServerTest.java" afterPath="$PROJECT_DIR$/src/test/com/common/zookeeper/server/ZKServerTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/interview/pattern/SingletonSafe.java" afterPath="$PROJECT_DIR$/src/test/interview/pattern/SingletonSafe.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/interview/pattern/Test.java" afterPath="$PROJECT_DIR$/src/test/interview/pattern/Test.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/jvm/Test.java" afterPath="$PROJECT_DIR$/src/test/jvm/Test.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/stringUtils/Test.java" afterPath="$PROJECT_DIR$/src/test/stringUtils/Test.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/stringUtils/TestArray.java" afterPath="$PROJECT_DIR$/src/test/stringUtils/TestArray.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zookeeperDemo.iml" afterPath="$PROJECT_DIR$/zookeeperDemo.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/classes/com/common/zookeeper/AbstractZooKeeper.class" afterPath="$PROJECT_DIR$/target/classes/com/common/zookeeper/AbstractZooKeeper.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/classes/com/common/zookeeper/config/ZooKeeperFactory.class" afterPath="$PROJECT_DIR$/target/classes/com/common/zookeeper/config/ZooKeeperFactory.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/target/zookeeperDemo/WEB-INF/classes/com/common/zookeeper/ontimeServer/ManagerServer$1.class" afterPath="$PROJECT_DIR$/target/classes/com/common/zookeeper/ontimeServer/ManagerServer$1.class" />
     </list>
     <ignored path="zookeeperDemo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -404,7 +78,7 @@
       <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/com/common/zookeeper/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
+            <state relative-caret-position="9291">
               <caret line="491" column="9" selection-start-line="491" selection-start-column="9" selection-end-line="491" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -416,8 +90,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+            <state relative-caret-position="57">
+              <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -428,7 +102,16 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="95">
               <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding />
+              <folding>
+                <element signature="e#185#186#0" expanded="false" />
+                <element signature="e#212#213#0" expanded="false" />
+                <element signature="e#252#253#0" expanded="false" />
+                <element signature="e#284#285#0" expanded="false" />
+                <element signature="e#327#328#0" expanded="false" />
+                <element signature="e#365#366#0" expanded="false" />
+                <element signature="e#428#429#0" expanded="false" />
+                <element signature="e#482#483#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -681,8 +364,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -698,20 +379,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="zookeeperDemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="zookeeperDemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="zookeeperDemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="target" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -797,6 +464,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1981,6 +1650,7 @@
       <workItem from="1519630267246" duration="1084000" />
       <workItem from="1519813176714" duration="3560000" />
       <workItem from="1520474929864" duration="3542000" />
+      <workItem from="1520589934622" duration="150000" />
     </task>
     <servers />
   </component>
@@ -2017,7 +1687,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="853101000" />
+    <option name="totallyTimeSpent" value="853251000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -2046,18 +1716,16 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37704918" sideWeight="0.4969743" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38936535" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25737706" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.52131146" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17540984" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32786885" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.52459013" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32786885" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933104" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23524962" sideWeight="0.47651008" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26096824" sideWeight="0.52348995" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26393443" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="SVN Repositories" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5068493" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -2066,8 +1734,10 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25737706" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26393443" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -2611,9 +2281,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3876">
           <caret line="227" column="6" selection-start-line="227" selection-start-column="6" selection-end-line="227" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#22068#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2732,43 +2399,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18601">
           <caret line="1032" column="28" selection-start-line="1032" selection-start-column="28" selection-end-line="1032" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#46452#0" expanded="false" />
-            <element signature="e#6370#6371#0" expanded="false" />
-            <element signature="e#6415#6416#0" expanded="false" />
-            <element signature="e#7615#7616#0" expanded="false" />
-            <element signature="e#7660#7661#0" expanded="false" />
-            <element signature="e#8755#8756#0" expanded="false" />
-            <element signature="e#8800#8801#0" expanded="false" />
-            <element signature="e#24431#24432#0" expanded="false" />
-            <element signature="e#24465#24466#0" expanded="false" />
-            <element signature="e#25298#25299#0" expanded="false" />
-            <element signature="e#25332#25333#0" expanded="false" />
-            <element signature="e#25457#25458#0" expanded="false" />
-            <element signature="e#25492#25493#0" expanded="false" />
-            <element signature="e#25612#25613#0" expanded="false" />
-            <element signature="e#25640#25641#0" expanded="false" />
-            <element signature="e#25762#25763#0" expanded="false" />
-            <element signature="e#25796#25797#0" expanded="false" />
-            <element signature="e#25921#25922#0" expanded="false" />
-            <element signature="e#25956#25957#0" expanded="false" />
-            <element signature="e#26084#26085#0" expanded="false" />
-            <element signature="e#26120#26121#0" expanded="false" />
-            <element signature="e#26581#26582#0" expanded="false" />
-            <element signature="e#26619#26620#0" expanded="false" />
-            <element signature="e#26892#26893#0" expanded="false" />
-            <element signature="e#26920#26921#0" expanded="false" />
-            <element signature="e#28787#28788#0" expanded="false" />
-            <element signature="e#28830#28831#0" expanded="false" />
-            <element signature="e#37205#37206#0" expanded="false" />
-            <element signature="e#37269#37270#0" expanded="false" />
-            <element signature="e#37847#37848#0" expanded="false" />
-            <element signature="e#37903#37904#0" expanded="false" />
-            <element signature="e#43566#43567#0" expanded="false" />
-            <element signature="e#43624#43625#0" expanded="false" />
-            <element signature="e#44623#44624#0" expanded="false" />
-            <element signature="e#44681#44682#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2783,7 +2413,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
           <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2885,7 +2514,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2893,7 +2521,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2901,9 +2528,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-9">
           <caret line="17" column="54" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2919,7 +2543,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2929,7 +2552,6 @@
           <caret line="83" column="24" selection-start-line="83" selection-start-column="24" selection-end-line="83" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1520586968074" expanded="false" signature="2470:2478" ph="&lt;~&gt;" />
           </folding>
         </state>
       </provider>
@@ -2944,14 +2566,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/avro/PraseAvro.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="10" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/avro/PraseAvro.java" />
     <entry file="file://$PROJECT_DIR$/src/test/stringUtils/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -2974,13 +2589,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/com/common/zookeeper/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
+        <state relative-caret-position="9291">
           <caret line="491" column="9" selection-start-line="491" selection-start-column="9" selection-end-line="491" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -2996,34 +2610,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dao/hibernate/HibernateTitleDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dao/hibernate/HibernateTitleDao.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/model/ActivityUserInfo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
+          <folding>
+            <element signature="e#185#186#0" expanded="false" />
+            <element signature="e#212#213#0" expanded="false" />
+            <element signature="e#252#253#0" expanded="false" />
+            <element signature="e#284#285#0" expanded="false" />
+            <element signature="e#327#328#0" expanded="false" />
+            <element signature="e#365#366#0" expanded="false" />
+            <element signature="e#428#429#0" expanded="false" />
+            <element signature="e#482#483#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/logs/all.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/all.log" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+        <state relative-caret-position="57">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
           <folding />
         </state>
       </provider>
